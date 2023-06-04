@@ -28,7 +28,7 @@ pip install pandas scikit-learn numpy matplotlib
 1. Clone the repository or download the Jupyter Notebook files.
 2. Open the desired Jupyter Notebook file in Jupyter Notebook or JupyterLab.
 3. Run the cells to train the model and evaluate the predictions.
-4. The results will be displayed in batches of 100 data points.
+4. The results will be displayed in batches of 100 data points
 
 ## Dataset
 
